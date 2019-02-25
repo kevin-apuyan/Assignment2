@@ -4,6 +4,10 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
+<<<<<<< 6112203f8154e2ff6c0714eb8e3d68e66134d5f5
+=======
+    "hash": "aac92c2af444bd177c364306b2ae1413",
+>>>>>>> third
     "content-hash": "5aafa3942acb452ea57464286de40906",
     "packages": [
         {
@@ -67,7 +71,11 @@
                 "s3",
                 "sdk"
             ],
+<<<<<<< 6112203f8154e2ff6c0714eb8e3d68e66134d5f5
             "time": "2016-07-25T18:03:20+00:00"
+=======
+            "time": "2016-07-25 18:03:20"
+>>>>>>> third
         },
         {
             "name": "guzzle/guzzle",
@@ -163,7 +171,11 @@
                 "web service"
             ],
             "abandoned": "guzzlehttp/guzzle",
+<<<<<<< 6112203f8154e2ff6c0714eb8e3d68e66134d5f5
             "time": "2015-03-18T18:23:50+00:00"
+=======
+            "time": "2015-03-18 18:23:50"
+>>>>>>> third
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -228,7 +240,11 @@
                 "rest",
                 "web service"
             ],
+<<<<<<< 6112203f8154e2ff6c0714eb8e3d68e66134d5f5
             "time": "2018-04-22T15:46:56+00:00"
+=======
+            "time": "2018-04-22 15:46:56"
+>>>>>>> third
         },
         {
             "name": "guzzlehttp/promises",
@@ -279,7 +295,11 @@
             "keywords": [
                 "promise"
             ],
+<<<<<<< 6112203f8154e2ff6c0714eb8e3d68e66134d5f5
             "time": "2016-12-20T10:07:11+00:00"
+=======
+            "time": "2016-12-20 10:07:11"
+>>>>>>> third
         },
         {
             "name": "guzzlehttp/psr7",
@@ -346,7 +366,11 @@
                 "uri",
                 "url"
             ],
+<<<<<<< 6112203f8154e2ff6c0714eb8e3d68e66134d5f5
             "time": "2018-12-04T20:46:45+00:00"
+=======
+            "time": "2018-12-04 20:46:45"
+>>>>>>> third
         },
         {
             "name": "psr/http-message",
@@ -396,7 +420,11 @@
                 "request",
                 "response"
             ],
+<<<<<<< 6112203f8154e2ff6c0714eb8e3d68e66134d5f5
             "time": "2016-08-06T14:39:51+00:00"
+=======
+            "time": "2016-08-06 14:39:51"
+>>>>>>> third
         },
         {
             "name": "ralouphie/getallheaders",
@@ -436,7 +464,11 @@
                 }
             ],
             "description": "A polyfill for getallheaders.",
+<<<<<<< 6112203f8154e2ff6c0714eb8e3d68e66134d5f5
             "time": "2016-02-11T07:05:27+00:00"
+=======
+            "time": "2016-02-11 07:05:27"
+>>>>>>> third
         },
         {
             "name": "symfony/event-dispatcher",
@@ -496,7 +528,11 @@
             ],
             "description": "Symfony EventDispatcher Component",
             "homepage": "https://symfony.com",
+<<<<<<< 6112203f8154e2ff6c0714eb8e3d68e66134d5f5
             "time": "2018-11-21T14:20:20+00:00"
+=======
+            "time": "2018-11-21 14:20:20"
+>>>>>>> third
         }
     ],
     "packages-dev": [],
